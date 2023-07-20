@@ -7,11 +7,11 @@ In this capstone, we will take the role of a data scientist working for a new ro
 
 ## The tasks applied for this project include:
 
-1. Data collection from an API
-2. Web Scraping data from Wikipedia
-3. Data wrangling
-4. Exploratory Data Analysis using SQL
-5. Exploratory Data Analysis in Python using Visualization
-6. Interactive Visual Analytics with Folium
-7. Building a dashboard application with Plotly Dash
-8. Creating a machine learning pipeline for prediction
+1. [Data collection from an API](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/1-data-collection-api.ipynb)
+2. [Web Scraping data from Wikipedia](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/2-webscraping.ipynb)
+3. [Data wrangling](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/3-spacex-data_wrangling.ipynb)
+4. [Exploratory Data Analysis using SQL](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/4-eda-sqllite.ipynb)
+5. [Exploratory Data Analysis in Python using Visualization](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/5-eda-dataviz.ipynb)
+6. [Interactive Visual Analytics with Folium](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/6-launch_site_location-Interactive-Visual-Analytics-with-Folium.ipynb)
+7. [Building a dashboard application with Plotly Dash](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/7-build_a_dashboard_application_with_Plotly_Dash.ipynb)
+8. [Creating a machine learning pipeline for prediction](https://github.com/mbujac/Applied-Data-Science-Capstone/blob/ca579780d9b7a7e2ffd9f0f616e7bda7cf9c228a/8-SpaceX_Machine_Learning_Prediction.ipynb)
